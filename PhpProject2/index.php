@@ -17,6 +17,7 @@
 
         <br />
         <br />
+        <input type="file" onchange='chargerTexte(this)'/>
     </center>
 </body>
   
